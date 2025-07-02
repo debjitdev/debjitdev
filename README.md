@@ -6,23 +6,37 @@
 
 ## 🧩 About Me
 
-```js
-const debjit = {
-  pronouns: "he/him",
-  role: "Aspiring Full Stack Developer",
-  code: ["JavaScript", "PHP", "Python", "HTML", "CSS"],
-  tools: ["React", "Node.js", "WordPress", "MySQL", "Git"],
-  passion: "building clean, scalable, user-focused applications",
-  currentlyLearning: ["React Hooks", "Next.js", "System Design"],
-  hobbies: ["Debugging", "Tech blogs", "Gaming", "Coffee ☕"]
-};
+I enjoy turning ideas into reality using clean, scalable, and user-focused code.  
+Whether it's writing backend logic, designing UI layouts, or debugging mysterious bugs — I love it all.
+
+---
+
+### 💻 Tech Stack
+- Languages: JavaScript, PHP, HTML, CSS  
+- Frameworks & Tools: WordPress, MySQL, Git
+
+---
+
+### 🌱 Currently Learning
+- React Hooks  
+- Next.js
+- Node.js 
+- System Design  
+
+---
+
+### 🎯 Hobbies
+- Debugging (yes, really!)  
+- Reading tech blogs  
+- Gaming 🎮  
+- Sipping coffee ☕ like it’s part of the job
 
 ---
 
 ## 🌍 Connect with Me
 
-- 💼 **Portfolio**: [https://debjit.dev](https://debjit.dev)  
-- 💬 **LinkedIn**: [https://linkedin.com/in/debjitghosh](https://linkedin.com/in/debjitghosh)  
+- 💼 **Portfolio**: [debjit.dev](https://debjit.dev)
+- 💬 **LinkedIn**: [linkedin.com/in/debjitghosh](https://linkedin.com/in/debjitghosh)  
 - ✉️ **Reach out**: `debjit.ghosh10@gmail.com`
 
 ---

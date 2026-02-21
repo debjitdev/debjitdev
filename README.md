@@ -35,7 +35,7 @@ Whether it's writing backend logic, designing UI layouts, or debugging mysteriou
 
 ## 🌍 Connect with Me
 
-- 💼 **Portfolio**: [debjit.dev](https://debjit.dev)
+- 💼 **Portfolio**: 
 - 💬 **LinkedIn**: [linkedin.com/in/debjitghosh](https://linkedin.com/in/debjitghosh)  
 - ✉️ **Reach out**: `debjit.ghosh10@gmail.com`
 
